@@ -9,7 +9,7 @@ yarn install qcfv
 # api
 
   * is_empty        // 验证字符串是否为空
-  * is_empty_obj    // 验证对象时候为空
+  * is_empty_obj    // 验证对象是否为空
   * is_idcard       // 验证身份证
   * is_email        // 验证邮箱
   * is_ip           // 验证合法 ip 地址
