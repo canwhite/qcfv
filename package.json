@@ -1,0 +1,9 @@
+{
+  "name": "qcfv",
+  "version": "1.1.3",
+  "main": "umd/index.js",
+  "module":"es/index.js",
+  "author": "qc",
+  "description": "form validator",
+  "license": "MIT"
+}
