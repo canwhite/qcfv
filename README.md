@@ -4,7 +4,9 @@ Form validation tool
 
 # install
 ```
-yarn install qcfv
+yarn add qcfv
+or
+npm i qcfv
 ```
 # api
 
